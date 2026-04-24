@@ -27,7 +27,4 @@ The recommendation engine follows a strict data pipeline:
     $$\text{similarity} = \cos(\theta) = \frac{\mathbf{A} \cdot \mathbf{B}}{\|\mathbf{A}\| \|\mathbf{B}\|}$$
 * **Dynamic Learning:** The system adapts as users interact with the UI.
 
-## 📦 Installation & Usage
-1. Clone the repo: `git clone https://github.com/your-username/smart-cart.git`
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run the application: `python app/main.py`
+
