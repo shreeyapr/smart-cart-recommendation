@@ -1,5 +1,5 @@
-# smart-cart-recommendation
-Objective: Build a scalable recommendation engine to improve user retention in e-commerce.  Tech Stack: Python, Scikit-Learn (TF-IDF, Cosine Similarity), NLP, and Pandas.  Outcome: Real-time UI capable of processing 100+ categories to provide high-precision product rankings based on user preference vectors.
+
+
 # SMART-CART: AI-Driven E-Commerce Recommendation System
 
 SMART-CART is a sophisticated recommendation engine designed to tackle "decision fatigue" in digital marketplaces. By leveraging multi-layered AI techniques, it provides real-time, personalized product suggestions to enhance user satisfaction.
